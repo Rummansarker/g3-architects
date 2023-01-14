@@ -113,3 +113,18 @@ body {
   padding-bottom: 15px;
 }
 /* feature plan style end here  */
+
+/* feature love and enjoy style start here  */
+.feature-love-and-enjoy-container {
+  padding: 0 140px;
+  display: flex;
+  margin-top: 100px;
+}
+.feature-love-and-enjoy-info {
+  padding-right: 60px;
+}
+.feature-love-and-enjoy-img img {
+  width: 500px;
+  height: 700px;
+}
+/* feature love and enjoy style end here  */
